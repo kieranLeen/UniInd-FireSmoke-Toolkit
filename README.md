@@ -43,6 +43,8 @@ The ‘Second-level Main Window’ opens once the analysis is completed. It cont
 - Console 2: Detection Results - Shows bounding boxes around detected objects (flame, smoke) and presents metrics such as flame angle, smoke/flare ratio, flame size, and smoke size.
 - Console 3: Segmentation (Flame and Smoke) - Highlights flame and smoke areas with colored masks (red for flame, blue for smoke).
 - Console 4: Flame Orientation - Shows a graphical representation of the flame’s angle and direction.
+
+  
 ![image](https://github.com/user-attachments/assets/af75a0fb-5e0f-46d6-8522-3cecdcc3d9f4)
 
 
@@ -54,7 +56,8 @@ By double-clicking on the Segmentation Console (Console 3), a sub-window opens t
 - Flare Mask - The segmentation results showing the areas detected as flames.
 - Smoke Mask - The segmentation results showing the areas detected as smoke.
 This double-click action leads to a sub-window similar to the following visualization:
- ![image](https://github.com/user-attachments/assets/60c42e64-9eda-422d-b553-88466374bcd1)
+
+![image](https://github.com/user-attachments/assets/60c42e64-9eda-422d-b553-88466374bcd1)
 
 
 2.2	Sub-window for Detailed Metrics (Triggered from Console 4)
@@ -66,6 +69,7 @@ By double-clicking on the Flame Orientation Console (Console 4), another sub-win
 - Flame and Smoke Sizes - The calculated sizes of the flame and smoke regions.
 - Flame Angle - The angle of the flame, with details on how the flame is oriented in the image.+
 An example of this sub-window with detailed metrics is shown below:
+
 ![image](https://github.com/user-attachments/assets/bcdc0a40-a38d-44aa-9454-398121572ffa)
 
  
