@@ -5,17 +5,16 @@
 The GUI consists of two main levels, each serving distinct purposes:
 	First-level Main Window: 
    - The interface where the user selects input and output directories and determines the type of analysis to be conducted (image-based or video-based). For the current version, image-based analysis refers to flare and smoke detection, segmentation, and measurements.
-  
-     
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/6423970d-ae8d-422b-952f-92aa400a2541 " alt="image" />
+  <img src="https://github.com/user-attachments/assets/ae92cca5-763a-4c0d-9633-14550ded87b2" alt="image" />
 </p>
 
 	Second-level Main Window: 
-   - Displays the processed results across four consoles. These consoles offer additional interaction through sub-windows when double-clicked, providing more detailed data such as segmentation masks, color analysis, flare-smoke ratio, flare orientation.
+   - Displays the processed results across four consoles. These consoles offer additional interaction through sub-windows when double-clicked, providing more detailed data such as segmentation masks, color analysis, flare-smoke ratio, and flare orientation.
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/ef2202aa-8033-4ff0-a2e6-e27e45b32ecb " alt="image" />
+  <img src="https://github.com/user-attachments/assets/0b966e7f-af3a-47c9-81c0-604f36b3c09b" alt="image" />
 </p>
 
 
