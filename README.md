@@ -23,9 +23,9 @@ The ‘First-level Main Window’ is the starting point of the GUI, where users 
 - Directory Selection:
   - Users input the directory paths for images, videos, and output folders through text fields.
   - The directory selection buttons (such as "Select Image Directory," "Select Video Directory," "Select Output Directory" which are marked in red box in the attached screenshot), these buttons can open file dialogs for easy path selection (marked in green box).
- 
+
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/9c834282-20ef-4334-bbe1-07f9122c3be6" alt="image" />
+  <img src="https://github.com/user-attachments/assets/acf82bfe-fcd9-4498-8539-84cdd63966cc" alt="image" />
 </p>   
  
 - Analysis Type Selection (marked in red box):
@@ -33,9 +33,9 @@ The ‘First-level Main Window’ is the starting point of the GUI, where users 
   - The "Start Image Auto-labelling" button initiates image-based object detection and segmentation.
   - The "Split Video to Frames" button extracts frames from video files for analysis.
   - The "Start Analysis" button runs gas flare analysis on videos.
- 
+
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/eb5aca52-b870-4af9-9b7a-7a01114ee313" alt="image" />
+  <img src="https://github.com/user-attachments/assets/5ae7cf82-27a6-4187-89c9-1e82555b4185" alt="image" />
 </p>      
 
 
@@ -50,7 +50,7 @@ The ‘Second-level Main Window’ opens once the analysis is completed. It cont
 - Console 4: Flame Orientation - Shows a graphical representation of the flame’s angle and direction.
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/af75a0fb-5e0f-46d6-8522-3cecdcc3d9f4" alt="image" />
+  <img src="https://github.com/user-attachments/assets/2855a9c6-cde9-462b-b5e7-7216b5eb9423" alt="image" />
 </p>      
 
 
@@ -65,7 +65,7 @@ By double-clicking on the Segmentation Console (Console 3), a sub-window opens t
 This double-click action leads to a sub-window similar to the following visualization:
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/60c42e64-9eda-422d-b553-88466374bcd1" alt="image" />
+  <img src="https://github.com/user-attachments/assets/c605b159-c65e-4f36-a7dc-52a2bfb43452" alt="image" />
 </p>      
 
 
@@ -80,7 +80,7 @@ By double-clicking on the Flame Orientation Console (Console 4), another sub-win
 An example of this sub-window with detailed metrics is shown below:
 
  <p align="center">
-  <img src="https://github.com/user-attachments/assets/bcdc0a40-a38d-44aa-9454-398121572ffa" alt="image" />
+  <img src="https://github.com/user-attachments/assets/ae59528a-5e3a-40fe-b6f0-9d3614f590f9" alt="image" />
 </p>      
 
  
