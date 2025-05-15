@@ -4,11 +4,15 @@
 1. GUI Hierarchy and Structure:
 The GUI consists of two main levels, each serving distinct purposes:
 	First-level Main Window: 
-   - The interface where the user selects input and output directories and determines the type of analysis to be conducted (image-based or video-based). For the current version, image-based analysis refers to flare and smoke detection, segmentation, and measurements. 
+   - The interface where the user selects input and output directories and determines the type of analysis to be conducted (image-based or video-based). For the current version, image-based analysis refers to flare and smoke detection, segmentation, and measurements.
+  
+     
  ![image](https://github.com/user-attachments/assets/6423970d-ae8d-422b-952f-92aa400a2541)
 
 	Second-level Main Window: 
    - Displays the processed results across four consoles. These consoles offer additional interaction through sub-windows when double-clicked, providing more detailed data such as segmentation masks, color analysis, flare-smoke ratio, flare orientation.
+
+     
 ![image](https://github.com/user-attachments/assets/ef2202aa-8033-4ff0-a2e6-e27e45b32ecb)
 
 
@@ -17,6 +21,8 @@ The ‘First-level Main Window’ is the starting point of the GUI, where users 
 - Directory Selection:
   - Users input the directory paths for images, videos, and output folders through text fields.
   - The directory selection buttons (such as "Select Image Directory," "Select Video Directory," "Select Output Directory" which are marked in red box in the attached screenshot), these buttons can open file dialogs for easy path selection (marked in green box).
+ 
+    
  ![image](https://github.com/user-attachments/assets/9c834282-20ef-4334-bbe1-07f9122c3be6)
 
 - Analysis Type Selection (marked in red box):
@@ -24,6 +30,8 @@ The ‘First-level Main Window’ is the starting point of the GUI, where users 
   - The "Start Image Auto-labelling" button initiates image-based object detection and segmentation.
   - The "Split Video to Frames" button extracts frames from video files for analysis.
   - The "Start Analysis" button runs gas flare analysis on videos.
+ 
+    
  ![image](https://github.com/user-attachments/assets/eb5aca52-b870-4af9-9b7a-7a01114ee313)
 
 - Log Console (marked in green box):
