@@ -14,8 +14,9 @@ The GUI consists of two main levels, each serving distinct purposes:
 	Second-level Main Window: 
    - Displays the processed results across four consoles. These consoles offer additional interaction through sub-windows when double-clicked, providing more detailed data such as segmentation masks, color analysis, flare-smoke ratio, flare orientation.
 
-     
-![image](https://github.com/user-attachments/assets/ef2202aa-8033-4ff0-a2e6-e27e45b32ecb)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/ef2202aa-8033-4ff0-a2e6-e27e45b32ecb " alt="image" />
+</p>
 
 
 1.1 First-level Main Window
