@@ -1,4 +1,4 @@
-### UniInd-FireSmoke-Toolkit
+### UniInd-FireSmoke-Toolkit Features (Code will be released later)
 #### Official toolkit for the paper Beyond Pixels: A Topology-Aware Framework for Smoke Analysis on Multimodal Industrial Benchmark
 #### Please follow the guide to use the tool for downstream industrial Fire-Smoke Analysis tasks
 1. GUI Hierarchy and Structure:
